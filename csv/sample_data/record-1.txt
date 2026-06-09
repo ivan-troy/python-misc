@@ -1,0 +1,8 @@
+"fielda",value a
+"key_2",value_2
+"field_2",abc
+"count",1
+"XY_POS",0.94,0.97
+"record_1",type1,a,0.33,0.33
+"record_2",type2,b,0.38,0.38
+"record_3",type3,c,9.4,9.4

@@ -1,0 +1,25 @@
+title
+date,05/01/2026
+key_1,value_1
+key_2,value_2
+batch,1
+
+records
+data,4
+field_1,field_2,field_a,field_b,type1(a),type2(b),field_5
+11,abc,0.15,0.32,0.33,0.38,1
+11,abc,0.87,0.14,0.66,0.44,10
+11,abc,0.71,0.67,0.66,0.1,1
+11,abc,4,8,h,i,j
+
+records (do not include)
+data,4
+field_1,field_2,field_a,field_b,type1(a),type2(b),field_5
+11,abc,0.57,0.08,0.47,0.56,3
+11,abc,0.73,0.27,0.25,0.4,3
+11,abc,0.8,0.54,0.93,0.23,3
+11,abc,4,8,h,i,j
+
+
+
+
